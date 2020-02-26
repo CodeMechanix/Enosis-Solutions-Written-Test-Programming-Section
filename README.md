@@ -1,4 +1,4 @@
-# Enosis Solution Written Test Programming Section
+# Enosis Solutions Written Test Programming Section
 
 1. Write a function that will receive a string as an input and will return the string in reverse order.
 
